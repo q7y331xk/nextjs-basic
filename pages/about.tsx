@@ -1,11 +1,11 @@
 import { NextPage } from 'next';
 import NavBar from '../components/nav-bar';
 
-const Home: NextPage = () => {
+const About: NextPage = () => {
         
     return <>
-        Home
+        About
     </>
 }
 
-export default Home;
+export default About;
